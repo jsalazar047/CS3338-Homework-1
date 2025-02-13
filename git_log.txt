@@ -1,3 +1,31 @@
+commit efa8c19bbb173fecc902aafe99c48ac9063fb35f
+Merge: 85212d8 8ef4e68
+Author: jsalazar047 <74085909+jsalazar047@users.noreply.github.com>
+Date:   Wed Feb 12 23:26:23 2025 -0800
+
+    Merge pull request #1 from jsalazar047/feature-about-me
+    
+    Feature about me
+
+commit 8ef4e68e376882897ae68b90aec1562f4cbc6a9f
+Merge: 6f494d0 85212d8
+Author: jsalazar047 <74085909+jsalazar047@users.noreply.github.com>
+Date:   Wed Feb 12 23:26:11 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit a36f59505c374c30e86a8aa394ab644532a1db38
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Wed Feb 12 23:05:01 2025 -0800
+
+    Add git log
+
+commit 85212d8c8e902330502ada301af64d3c80db79d5
+Author: Aaren-Quintero <aquint108@calstatela.edu>
+Date:   Wed Feb 12 22:48:37 2025 -0800
+
+    Update index.html
+
 commit 6f494d0f1d0a67638f9e69c828da5b757c3b4936
 Merge: 82918c6 f37cdce
 Author: jsalazar047 <74085909+jsalazar047@users.noreply.github.com>
